@@ -6,9 +6,11 @@
 <img src="images/SystemDesign.png">
 
 ## Live Demo available on YouTube
+<p float="left">
 <a href="https://www.youtube.com/watch?v=y0p6CkpqlJ0&feature=youtu.be"><img src="images/youtube.png" height = 60 width = 250/></a>
-<h4><a href="https://www.youtube.com/watch?v=y0p6CkpqlJ0&feature=youtu.be">Click here to Watch</a></h4>                                                                                                  
-## Screenshots
+<h4><a href="https://www.youtube.com/watch?v=y0p6CkpqlJ0&feature=youtu.be">Click here to Watch</a></h4>                                                             </p>
+
+
 
 ## mySQL database used for the data storage
 <p float="left">
