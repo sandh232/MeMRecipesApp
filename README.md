@@ -1,4 +1,4 @@
-# MeMRecipesApp
+# MeMRecipesApp - GROUP PROJECT
 <img src="images/MeMRecipes.png">
 <img src="images/WhatAndWhy.png">
 
