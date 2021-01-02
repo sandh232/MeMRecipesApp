@@ -20,16 +20,19 @@
 3. Recipes Page: This page will appears for the particular recipes that user will.
 <img src="images/Recipes.png" width=220 height=450>
 
-4. Category Page
+4. AddNote Page: User can add notes regarding recipes. That is, any item they think, they need to buy or anything.
+<img src="images/AddNotes.png" width=220 height=450>
+
+5. Category Page
 <img src="images/Category.png" width=220 height=450>
 
-5. Favourites Page: Any recipes that user add as a favourite will appear on this page.
+6. Favourites Page: Any recipes that user add as a favourite will appear on this page.
 <img src="images/Favourites.png" width=220 height=450>
 
-6. Profile Page
+7. Profile Page
 <img src="images/Profile.png" width=220 height=450>
 
-7. NotSure Page: This page helps user based on two scenarios: Not sure what to eat? (<i>gives user suggestions for cuizines</i>) and Not sure what Dish? (<i>use ML model to detect the dish name through phone camera</i>)
+8. NotSure Page: This page helps user based on two scenarios: Not sure what to eat? (<i>gives user suggestions for cuizines</i>) and Not sure what Dish? (<i>use ML model to detect the dish name through phone camera</i>)
 <img src="images/NotSure.png" width=220 height=450>
   
   
