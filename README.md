@@ -38,6 +38,6 @@
   
 ## mySQL database used for the data storage
 <p float="left">
-<img src="images/mySQL.png" height = 150 width = 250>
-<img src="images/databasemysql.png" height = 150 width = 150> 
+<img src="images/sqlite.png" height = 150 width = 250>
+<img src="images/databaseSQLite.png" height = 150 width = 150> 
 </p>
