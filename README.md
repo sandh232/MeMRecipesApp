@@ -36,7 +36,7 @@
 <img src="images/NotSure.png" width=220 height=450>
   
   
-## mySQL database used for the data storage
+## SQLite database used for the data storage
 <p float="left">
 <img src="images/sqlite.png" height = 150 width = 250>
 <img src="images/databaseSQLite.png" height = 150 width = 150> 
