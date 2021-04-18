@@ -5,11 +5,6 @@
 ## System Design
 <img src="images/SystemDesign.png">
 
-## Live Demo available on YouTube
-<p float="left">
-<a href="https://www.youtube.com/watch?v=y0p6CkpqlJ0&feature=youtu.be"><img src="images/youtube.png" height = 60 width = 250/></a>
-<h4><a href="https://www.youtube.com/watch?v=y0p6CkpqlJ0&feature=youtu.be">Click here to Watch</a></h4>                                                             </p>
-
 ## Screenshots
 1. Login-SignUp Page
 <img src="images/LoginSignUpScreen.png" width=220 height=450>
